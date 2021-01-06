@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "commander": "^4.1.1",
     "crypto": "^1.0.1",
     "inquirer": "^7.0.6",
